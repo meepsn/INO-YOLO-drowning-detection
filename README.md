@@ -24,7 +24,7 @@ All images were labeled (drowning / swimming / background) in YOLO format throug
 Data was split into traditional 7:2:1 ratio split. 
 
 
-Examples:
+Example images:
 
 <img width="776" height="292" alt="image" src="https://github.com/user-attachments/assets/fa828d8c-c00d-4411-853d-1a610b9108c2" />
 
