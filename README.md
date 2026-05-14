@@ -1,6 +1,6 @@
 # INO-YOLO Drowning Detection
 
-Independent ressearch project, submitted to SARSEF in Spring 2026.
+Independent research project, submitted to SARSEF in Spring 2026.
 
 Won Second Place Grand Award, AVNET High School Innovator Award, Law and Policy
 
@@ -18,3 +18,9 @@ ___
 
 # Comparative Expirimental Results
 <img width="476" height="130" alt="image" src="https://github.com/user-attachments/assets/63957a87-2fbf-453d-91d7-2401cb0ca418" />
+
+
+# Limitations
+Largest limitation: over 70% of drowning deaths for teens aged 15-19 occur in open water
+Solution: collect or simulate outdoor drowning/swimming dataset for training to increase model robustness
+
