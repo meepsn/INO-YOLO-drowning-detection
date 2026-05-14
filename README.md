@@ -16,7 +16,7 @@ Prioritized creating a lightweight model for lower-cost deployment of the system
 Achieved DmAP50 of 0.90, Recall of 0.86, while having reduced computation cost being a 3 GFLOP, 2.95 MB, 1.4M parameter model. Additional benefit of being the highest FPS model due to lightweightedness.
 ___
 
-# Results & Limitations
+# Results
 
 Comparative Expirimental Results
 
@@ -24,12 +24,13 @@ Comparative Expirimental Results
 
 Training and Validation metrics over 100 Epochs
 
-<img width="318" height="157" alt="image" src="https://github.com/user-attachments/assets/d5c27245-5c0d-4f14-8e68-e075d8d31d43" />
+<img width="907" height="453" alt="image" src="https://github.com/user-attachments/assets/8950b44d-713d-4456-af9d-3f45fe8a19d0" />
 
+___
 
-Limitations:
+# Limitations
 
-Largest limitation: over 70% of drowning deaths for teens aged 15-19 occur in open water
+Main limitation: over 70% of drowning deaths for teens aged 15-19 occur in open water
 
 Solution: collect or simulate outdoor drowning/swimming dataset for training to increase model robustness
 
