@@ -40,6 +40,10 @@ Training and Validation metrics over 100 Epochs
 
 <img width="907" height="453" alt="image" src="https://github.com/user-attachments/assets/8950b44d-713d-4456-af9d-3f45fe8a19d0" />
 
+Detection results
+
+<img width="906" height="132" alt="image" src="https://github.com/user-attachments/assets/c653d39b-22af-4c33-b441-9558c3a3d96f" />
+
 ___
 
 # Limitations
