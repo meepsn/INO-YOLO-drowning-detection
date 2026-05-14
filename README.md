@@ -16,5 +16,5 @@ Prioritized creating a lightweight model for lower-cost deployment of the system
 Achieved DmAP50 of 0.90, Recall of 0.86, while having reduced computation cost being a 3 GFLOP, 2.95 MB, 1.4M parameter model.
 ___
 
-# Comparative Expirimental Results With Leading Models
+# Comparative Expirimental Results
 <img width="476" height="130" alt="image" src="https://github.com/user-attachments/assets/63957a87-2fbf-453d-91d7-2401cb0ca418" />
