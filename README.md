@@ -13,14 +13,16 @@ Robust dataset: 2,000 original images of swimming/drowning, including images fro
 
 Prioritized creating a lightweight model for lower-cost deployment of the system in low-income regions-- areas with the highest risk of unintentional drowning deaths.
 
-Achieved DmAP50 of 0.90, Recall of 0.86, while having reduced computation cost being a 3 GFLOP, 2.95 MB, 1.4M parameter model.
+Achieved DmAP50 of 0.90, Recall of 0.86, while having reduced computation cost being a 3 GFLOP, 2.95 MB, 1.4M parameter model. Additional benefit of being the highest FPS model due to lightweightedness.
 ___
 
-# Comparative Expirimental Results
+Comparative Expirimental Results
 <img width="476" height="130" alt="image" src="https://github.com/user-attachments/assets/63957a87-2fbf-453d-91d7-2401cb0ca418" />
 
 
-# Limitations
+Limitations
+
 Largest limitation: over 70% of drowning deaths for teens aged 15-19 occur in open water
+
 Solution: collect or simulate outdoor drowning/swimming dataset for training to increase model robustness
 
