@@ -8,6 +8,7 @@ Abstract + Presentation Link: https://virtualfair.sarsef.org/2026/ino-yolo-a-lig
 
 
 Drowning Detection Deep-Learning Model using YOLO26 & with customized model architecture (BiFPN + LGCBlock). Inspired by YOLO11-LiB (Zhang et al. (2025)). 
+Created using PyTorch and Ultralytics YOLO.
 
 Prioritized creating a lightweight model for lower-cost deployment of the system in low-income regions-- areas with the highest risk of unintentional drowning deaths.
 
@@ -38,7 +39,7 @@ Comparative Expirimental Results
 
 Training and Validation metrics over 100 Epochs
 
-<img width="907" height="453" alt="image" src="https://github.com/user-attachments/assets/8950b44d-713d-4456-af9d-3f45fe8a19d0" />
+<img width="453" height="226" alt="image" src="https://github.com/user-attachments/assets/8950b44d-713d-4456-af9d-3f45fe8a19d0" />
 
 Detection results
 
