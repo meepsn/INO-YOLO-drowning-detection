@@ -9,11 +9,19 @@ Abstract + Presentation Link: https://virtualfair.sarsef.org/2026/ino-yolo-a-lig
 
 Drowning Detection Deep-Learning Model using YOLO26 & with customized model architecture (BiFPN + LGCBlock). Inspired by YOLO11-LiB (Zhang et al. (2025)). 
 
-Robust dataset: 2,000 original images of swimming/drowning, including images from various environments, lighting conditions, perspectives etc.
-
 Prioritized creating a lightweight model for lower-cost deployment of the system in low-income regions-- areas with the highest risk of unintentional drowning deaths.
 
 Achieved DmAP50 of 0.90, Recall of 0.86, while having reduced computation cost being a 3 GFLOP, 2.95 MB, 1.4M parameter model. Additional benefit of being the highest FPS model due to lightweightedness.
+___
+# Dataset
+
+Robust dataset: 2,000 original images of swimming/drowning, including images from various environments, lighting conditions, perspectives etc.
+
+Data collected from Roboflow & other publically available sources. 
+
+All images were labeled (drowning / swimming / background) in YOLO format through Roboflow annotation tool.
+
+Data was split into traditional 7:2:1 ratio split. 
 ___
 
 # Results
