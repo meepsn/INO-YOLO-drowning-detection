@@ -23,7 +23,8 @@ Comparative Expirimental Results
 <img width="476" height="130" alt="image" src="https://github.com/user-attachments/assets/63957a87-2fbf-453d-91d7-2401cb0ca418" />
 
 
-Limitations
+
+Limitations:
 
 Largest limitation: over 70% of drowning deaths for teens aged 15-19 occur in open water
 
